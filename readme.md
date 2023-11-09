@@ -65,7 +65,7 @@ Make sure all ground (GND) connections are common.
 Confirm the correct UID of authorized RFID cards in the Arduino code.
 Adjust servo angles (Lock and Unlock) in the code based on your servo's specifications. 
 
-![Wiring Diagram](https://github.com/R1SHABHRAJ/RFID-and-Keypad-Door-Lock-System/blob/77149876a79c4559a8758010549c45f122334da0/schematics.png)
+![Wiring Diagram](schematics.png)
 
 ## Installation and Setup
 
